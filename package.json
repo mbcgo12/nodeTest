@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/mbcgo12/nodetest/issues"
   },
-  "homepage": "https://github.com/mbcgo12/nodetest#readme"
+  "homepage": "https://github.com/mbcgo12/nodetest#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.6.2"
+  }
 }
